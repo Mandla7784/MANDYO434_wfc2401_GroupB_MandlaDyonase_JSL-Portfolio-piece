@@ -2,6 +2,11 @@
 **Overview:**.
 This project is a task manager web application built using HTML, CSS, and JavaScript. It allows users to organize their tasks efficiently by adding, editing, and deleting tasks. The application utilizes local storage for data persistence, ensuring that tasks are retained even after refreshing the page. With a clean and intuitive user interface, managing tasks becomes effortless.
 
+https://www.loom.com/share/b98d3ec65c1544459b5ec29cb0ba4dd7 Video[link]
+https://www.canva.com/design/DAGDaUl4g-0/0jFeYRCHPMrdVVLu5sM5Aw/edit Slides [link]
+
+
+
 **Features:**
 Add new tasks with titles and descriptions.
 Edit existing tasks to update titles, descriptions, and statuses.
