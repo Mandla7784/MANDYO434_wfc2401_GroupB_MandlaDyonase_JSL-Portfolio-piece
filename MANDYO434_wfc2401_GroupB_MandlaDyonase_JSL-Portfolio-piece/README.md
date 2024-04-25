@@ -1,5 +1,5 @@
 **Task Manager Web Application**
-**Overview:**
+**Overview:**.
 This project is a task manager web application built using HTML, CSS, and JavaScript. It allows users to organize their tasks efficiently by adding, editing, and deleting tasks. The application utilizes local storage for data persistence, ensuring that tasks are retained even after refreshing the page. With a clean and intuitive user interface, managing tasks becomes effortless.
 
 **Features:**
